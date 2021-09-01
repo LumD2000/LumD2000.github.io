@@ -1,23 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: The Power of JS 
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2021-08-31
 labels:
   - Software Engineering
   - Learning
+  - Javascript
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+  Upon learning the basics of Javascript from videos on the internet, I did not think it was anything special. Merely another programming language that I could say I was familiar with. However, as I started playing with it more and using the language to solve various problems, I realized how creative you can be in utilizing the language. As someone who came from a primarily C/C++ background, I was taught very fundamental principles of programming that could be applied to multiple problems found in algorithms. But with JS, these principles are greatly expanded, and with flexible objects like first class functions, functions that can essentially be treated as objects, the ability to come out with innovative solutions became more accessible to me. I have enjoyed my time with JS so far, and I hope to learn more so that I can become more open-minded and approach problems with a more creative mindset. 
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+  My experience with athletic software engineering has been good so far. My experience with algorithms has been helping me with the problems so far, and I have been applying my knowledge from C to help me adapt to writing JS code. I think these have been helpful in training my hands to write in a different language. It is also stressful since I have to finish these problems within a time constraint, and will continue to grow stressful as my grades depend on my ability to solve them within the given time. However, I think in the end, it will be very a unique learning experience that I find enjoyable. 
 
