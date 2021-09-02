@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/project1pic.jpg
 title: CIMP 2021
 permalink: 
 # All dates must be YYYY-MM-DD format!
