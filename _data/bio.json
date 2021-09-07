@@ -26,7 +26,7 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "",
+        ""
         ""
       ]
     },
@@ -48,7 +48,6 @@
       "keywords": [
         "C",
         "C++",
-        "",
         "Javascript",
         "Assembly",
         ""
@@ -61,8 +60,6 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "",
-        ""
       ]
     }
   ],
@@ -79,9 +76,6 @@
     }
   ],
   "work": [
-    {
-  
-    },
     {
       "company": "UH Information Technology Services",
       "position": "Network Operations Technician",
@@ -105,10 +99,7 @@
   ],
   "awards": [
     {
-    
-    },
-    {
-     
+      "Dean's List at the College of Engineering"
     }
   ],
   "references": [
