@@ -87,17 +87,9 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-
-    },
-    {
-
-    }
-  ],
   "awards": [
     {
-      "Dean's List at the College of Engineering"
+      "name": "Dean's List at the College of Engineering"
     }
   ],
   "references": [
