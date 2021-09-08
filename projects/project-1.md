@@ -21,6 +21,6 @@ I was responsible for mostly front-end development, such as adding front end fea
 
 I learned a lot about the git workflow from this project, and it was my first experience collaborating with other engineers to design a solution to a real world problem.
 
-
+More information about the project can be found at https://www.hec.org/wp-content/uploads/2021/03/CIMP-2.0.pdf
 
 
