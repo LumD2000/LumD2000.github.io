@@ -13,7 +13,7 @@ labels:
 summary: My team developed a prototype website that allowed users to calculate the storm water utility property of various properties on the island of Oahu.
 ---
 
-
+<img class="ui medium right floated rounded image" src="/images/datahousewebsite.png">
 This year's Community Innovation Mentorship Program (CIMP) involved creating a web-based solution that quantified the storm water utility fee for commercial property owners. This 
 was done through multiple sessions of brainstorming to come up with all the possible features that our website should have, such as the ability to highlight certain features of land that was to be considered pervious or impervious surfaces. 
 
