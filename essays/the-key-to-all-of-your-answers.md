@@ -1,51 +1,24 @@
 ---
 layout: 
 type: 
-title: The difficult things will always be difficult
+title: The Key to All of Your Answers
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2021-09-09
 labels:
+  - Software Development
+  - Programming
   - Engineering
 ---
+As an engineering major, I've had to ask many questions to understand the many concepts that I have come to learn in university, but I had never thought about the "way" that I have been asking them. Sometimes, my questions might be focused with a specific inquiry in mind, and sometimes it would be an extremely vague question that often left my TAs baffled by my lack of intelligence. I have come to learn that asking questions in a certain type of manner yield more relevant answers that I can apply to my studies. These types of questions involve a certain level of effort and diligence from the person that is asking and should be structured in such a way that others can easily understand the problem at hand and give defined answers that could lead to a solution. 
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## The properties of a smart question
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Generally, a smart question can be identified by certain characteristics. If the question exhibits a certain level of understanding of the topic, it encourages discussion as it may be detailed enough for someone to glance at and immediately know a solution, or at least a step in the right direction. Smart questions can also be characterized by steps the user has attempted to solve the problem with, in order to provide more details about the problem and goal itself. In StackOverflow, a question posed by a user describes his problem with parsing input in c++ and comparing it to a float. He also posted his code and the exact error he received while compiling his code. While not being entirely grammatically correct, it gives enough detail to elicit substantial answers to his problem. A link to the question can be found [here](https://stackoverflow.com/questions/69127127/c-check-whether-the-user-input-is-float-or-not).
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## The properties of a stupid question 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Contrary to smart questions, stupid questions can be characterized by being vague, uninformative, or very basic. These questions demonstrate a lack of understanding from the user and a lack of research on their end that invites a negative response from others. In one question found in StackOverflow, a homework question was posted by a user that complained about their code solution not being the correct answer. They provide few details about why this is the case and poses an open-ended question instead. Many of the people that responded gave sarcastic answers or unhelpful comments. A link to the question can be found [here](https://stackoverflow.com/questions/69127792/can-you-tell-me-if-my-implementation-of-insertion-sort-is-correct-its-working).
 
-Here's what I think: the difficult things will always be difficult.
+## How does this help?
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+For us to communicate effectively, we need to be able to convey the necessary information to other parties for us to get something relevant in return. If we aren't able to accurately describe the problems we are facing, it may be difficult receiving help. Thus, it is imperative that we learn to ask smarter questions to gain more important information efficiently. 
