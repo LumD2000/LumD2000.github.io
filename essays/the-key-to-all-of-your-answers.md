@@ -1,6 +1,6 @@
 ---
-layout: 
-type: 
+layout: essay
+type: essay 
 title: The Key to All of Your Answers
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-09
