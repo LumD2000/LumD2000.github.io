@@ -22,11 +22,11 @@ After a couple of weeks with HTML and CSS for webpage creation, and a single wee
 
 Here is an example of a webpage I recreated using Semantic UI in about an hour: 
 
-<img class="ui medium left floated image" src="../images/semanticUI.png">
+<img class="ui medium image" src="../images/semanticUI.png">
 
 Compare this to the same website, made with something different:
 
-<img class="ui medium left floated image" src="../images/nosemanticUI.png">
+<img class="ui medium image" src="../images/nosemanticUI.png">
 
 You can see that results may be slightly different, but the overall result looks similar to an extent and creating the webpage with Semantic UI took considerably less effort than if I were to attempt the recreation with regular HTML elements with normal CSS styling. With my current level of experience, it might take days for my webpage to have any resemblance to the original. 
 
