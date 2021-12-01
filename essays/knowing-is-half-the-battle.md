@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Knowing is half the battle
+title: Knowing Is Half The Battle
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-30
 labels:
