@@ -60,6 +60,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
@@ -75,6 +76,8 @@
       "endDate": "Present",
       "gpa": "3.61",
       "courses": [
+        "Data Structures and Algorithms",
+        "Digital Systems and Computer Design"
       ]
     }
   ],
@@ -88,6 +91,7 @@
       "summary": "",
       "highlights": [
         "Troubleshoot networking equipment on campus"
+        "Handle user requests involving network-related issues"
       ]
     }
   ],
