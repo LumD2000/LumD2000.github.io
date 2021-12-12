@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kanak-attack.png
+image: images/kanak.png
 title: Kanak Attack Manoa
 permalink: projects/kanak-attack 
 # All dates must be YYYY-MM-DD format!
